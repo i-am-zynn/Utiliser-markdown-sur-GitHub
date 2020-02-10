@@ -30,10 +30,10 @@ Vous pouvez mettre jusqu'à six dièses. Plus il y a de dièses, plus le titre s
 
 ## Redirection vers un lien grâce à du texte :
 
-N'hésitez pas à rejoindre notre [Discord](discord.gg/7CZBUJQ).
+N'hésitez pas à rejoindre notre [Discord](https://discordapp.com/invite/7CZBUJQ).
 
 Pour faire une redirection vers un lien grâce à du texte, il suffit de mettre le mot que vous souhaitez en faire le texte qui sera cliqué entre deux crochet [] et le lien de la redirection entre deux parenthèses (). Aucun espace !
-Voici un petit exemple : `N'hésitez pas à rejoindre notre [Discord](discord.gg/7CZBUJQ).`
+Voici un petit exemple : `N'hésitez pas à rejoindre notre [Discord](https://discordapp.com/invite/7CZBUJQ).`
 
 ---
 
