@@ -56,7 +56,7 @@ Pour faire une barre de séparation, il suffit de mettre plusieurs tirets d'affi
 
 ## Caractères cités :
 
-Astérisque : `*`
-Dièse : `#`
-Crochets : `[]`
+Astérisque : `*`  
+Dièse : `#`  
+Crochets : `[]`  
 Parenthèses : `()`
